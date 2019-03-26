@@ -1,0 +1,14 @@
+{
+  "name": "metatavu-react-tsrules",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "build-ts": "tsc src/*.ts --outDir dist"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.4",
+    "tslint": "^5.14.0",
+    "typescript": "^3.3.4000"
+  }
+}
