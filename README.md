@@ -1,0 +1,1 @@
+# metatavu-react-tsrules
